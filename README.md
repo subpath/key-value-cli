@@ -10,7 +10,7 @@ cargo build --release
 ```bash
 target/release/key-value-cli foo bar
 ```
-3. looku up for your value
+1. lookup your value
 ```bash
 target/release/key-value-cli foo
 >>> bar
